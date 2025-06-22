@@ -7,6 +7,16 @@ optimize pairing lists for efficiency.
 
 
 
+## Contact
+FleetPairer is currently still being developed. While it already generates (provably) fair and efficient pairing-lists, it needs a lot of computation-power to do so.  
+We are currently working hard on making FleetPairer more efficient. However, this is not easy to achieve while still preserving fairness of the generated pairing-lists.  
+
+If you would like to use FleerPairer for your sailing-league, please contact us via E-Mail.
+
+**E-Mail:** [fleetpairer@gmail.com](mailto:fleetpairer@gmail.com)
+
+
+
 ## FleetPairers's Mission
 ### Fairness
 FleetPairers's main focus lies on making sailing leagues as fair as possible.
@@ -43,17 +53,6 @@ Each team recieves points corresponding to their ranking in the respective race.
 
 
 
-
-## Contact
-FleetPairer is currently still being developed. While it already generates (provably) fair and efficient pairing-lists, it needs a lot of computation-power to do so.  
-We are currently working hard on making FleetPairer more efficient. However, this is not easy to achieve while still preserving fairness of the generated pairing-lists.  
-
-If you would like to use FleerPairer for your sailing-league, please contact us via E-Mail.
-
-**E-Mail:** [fleetpairer\@gmail.com](mailto:fleetpairer\@gmail.com)
-
-
-
 ## License
 Copyright © 2025 L. Dalbosco
 
@@ -61,7 +60,7 @@ Pairing-Lists generated with this software may be used free of
 charge if and only if FleetPairer is cited accordingly.
 Include the text  
 "Generated with FleetPairer by L.Dalbosco  
-(https://ldalbosco.github.io/FleetPairer-Public)"  
+([fleetpairer.com](fleetpairer.com))"  
 clearly visible on every page of your printed or digital pairing-lists.
 
 FleetPairer is currently closed-source. This might change in the future. If you are interested in contributing to the project, or adapting the source-code to your needs, feel free to reach out via E-Mail.
