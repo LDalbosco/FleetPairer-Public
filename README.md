@@ -60,7 +60,7 @@ Pairing-Lists generated with this software may be used free of
 charge if and only if FleetPairer is cited accordingly.
 Include the text  
 "Generated with FleetPairer by L.Dalbosco  
-([fleetpairer.com](fleetpairer.com))"  
+([fleetpairer.com](https://fleetpairer.com))"  
 clearly visible on every page of your printed or digital pairing-lists.
 
 FleetPairer is currently closed-source. This might change in the future. If you are interested in contributing to the project, or adapting the source-code to your needs, feel free to reach out via E-Mail.
