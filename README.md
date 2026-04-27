@@ -52,7 +52,7 @@ Furthermore, FleetPairer prohibits pairing-lists in which a team sails on two di
 
 ## Frequent Users
 
-The *Swiss Sailing League Association (SSLA)* uses FleetPairer for their events since the season 2025. They are in close contact with FleetPairer and provide valuable feedback to improve our software.
+The *Swiss Sailing League Association (SSLA)* uses FleetPairer for their events since the season of 2025. They are in close contact with FleetPairer and provide valuable feedback to improve our software.
 
 <br>
 
