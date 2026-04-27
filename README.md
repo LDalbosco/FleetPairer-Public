@@ -1,15 +1,14 @@
 # FleetPairer
-FleetPairer is an optimization library, allowing to generate pairing-lists for
+FleetPairer is an optimization software, allowing to generate pairing-lists for
 sailboat racing in a league format.
 
 While enabling *fairness* in sailing leagues, FleetPairer also allows to
-optimize pairing lists for efficiency.
+optimize pairing-lists for efficiency.
 
 
 
 ## Contact
-FleetPairer is currently still being developed. While it already generates (provably) fair and efficient pairing-lists, it needs a lot of computation-power to do so.  
-We are currently working hard on making FleetPairer more efficient. However, this is not easy to achieve while still preserving fairness of the generated pairing-lists.  
+FleetPairer is currently in a testing phase. Together with some of our early adopters, we are testing FleetPairer in practice, and will strengthen our notion of *fairness* or improve *efficiency* of the generated pairing-lists if necessary. 
 
 If you would like to use FleerPairer for your sailing-league, please contact us via E-Mail.
 
@@ -19,20 +18,18 @@ If you would like to use FleerPairer for your sailing-league, please contact us 
 
 ## FleetPairers's Mission
 ### Fairness
-FleetPairers's main focus lies on making sailing leagues as fair as possible.
+FleetPairers's main focus lies on making sailing leagues as *fair* as possible.
 To do so, the usually used rules had to be strengthened significantly.
-However, the new and fair rules still satisfy the usually used rules. This
-allows race-organizers to switch to new pairing-lists without going through the
-process of adapting their league's rules.
+However, the new rules still satisfy the usual ones. This allows race-organizers to switch to new pairing-lists without going through the process of adapting their league's rules.
 
-When speaking of ***fairness***, we usually think of two things:  
-* Each team should directly compete against all other teams equally often
-* Each team should sail equally often on all boats
+When speaking of ***fairness***, we usually think of two things (in order of priority):  
+1. Each team should directly compete against all other teams equally often
+2. Each team should sail equally often on all boats
 
-Usually, pairing lists are developed manually. This is not only tedious but almost infeasible for realistically sized events. Thus, the above fairness rules are often *relaxed* s.t. some teams race against each other much more often than others, and the teams don't sail equally often on all boats. This makes events inherently *unfair*.
+Usually, pairing-lists are developed manually. This is not only tedious but almost infeasible for the size of todays events. Thus, the above fairness rules are often *relaxed* s.t. some teams race against each other much more often than others. The second notion of fairness is often dropped entirely. This makes events inherently *unfair*. Furthermore, manual design of pairing-lists is prone to errors.
 
-> **NOTE:**
-> Depending on the number of boats, teams and flights in a league, there might not be a perfectly fair pairing-list. Thus, the strict rules developed by FleetPairer permit a deviation of one if necessary.
+> **Note:**
+> Depending on the number of boats, teams and flights in a league, there might not be a perfectly fair pairing-list. In general, FleetPairer finds an optimal solution (i.e. a solution that is as fair as possible).
 
 
 ### Efficiency
@@ -41,6 +38,8 @@ In league-sailing, there are usually many crew-changes between races. This is cl
 Thus, FleetPairer uses advanced optimization strategies to keep the total time used for crew-changes down to a minimum.  
 To do so, FleetPairer may also take the local conditions into account. This is especially useful if only a limited number of crew-changes can be executed concurrently.
 
+Furthermore, FleetPairer prohibits pairing-lists in which a team sails on two different boats in consecutive races. This was observed to lead to major congestions (e.g. if the team finishing last has to change to the boat of the team finishing first).
+
 
 
 ## The League-Sailing Format
@@ -48,16 +47,16 @@ In a sailing-league, a predetermined number of teams compete against each other 
 In each flight, every team sails *exactly* once. If there are more teams than available boats, a flight may consist of multiple races.  
 Each team recieves points corresponding to their ranking in the respective race. In the end, the team with the lowest sum of points wins the sailing-league.
 
-> **NOTE:**
-> It is important that only *completed flights* are counted for the final ranking, s.t. each team competed in the same number of races.
+> **Note:**
+> It is crucial that only *completed flights* are counted for the final ranking, s.t. each team competed in the same number of races.
 
 
 
 ## License
-Copyright © 2025 L. Dalbosco
+Copyright © 2026 L. Dalbosco
 
-Pairing-Lists generated with this software may be used free of
-charge if and only if FleetPairer is cited accordingly.
+Pairing-lists generated with this software may be used free of
+charge *if and only if* FleetPairer is cited accordingly.
 Include the text  
 "Generated with FleetPairer by L.Dalbosco  
 ([fleetpairer.com](https://fleetpairer.com))"  
