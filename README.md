@@ -54,11 +54,13 @@ Furthermore, FleetPairer prohibits pairing-lists in which a team sails on two di
 
 The *Swiss Sailing League Association (SSLA)* uses FleetPairer for their events since the season 2025. They are in close contact with FleetPairer and provide valuable feedback to improve our software.
 
->The Swiss Sailing League organizes numerous regattas every year involving many teams, tight schedules, and complex logistics. Precise and efficient flight scheduling is crucial to ensuring that everything runs smoothly on the water.
+<br>
+
+>"The Swiss Sailing League organizes numerous regattas every year involving many teams, tight schedules, and complex logistics. Precise and efficient flight scheduling is crucial to ensuring that everything runs smoothly on the water.
 >
 >With FleetPairer, we have found a solution that meets all of our expectations. The platform enables the rapid, transparent, and fair creation of flight schedules, even when adjustments are needed at the last minute. We particularly appreciate the intuitive user interface and the flexibility to adapt to different event formats and participant numbers.
 >
->Thanks to FleetPairer, we have significantly simplified our operational processes while improving the quality of our regatta organization. Planning is transparent and efficient, and it considerably reduces the administrative workload for our organizing team.
+>Thanks to FleetPairer, we have significantly simplified our operational processes while improving the quality of our regatta organization. Planning is transparent and efficient, and it considerably reduces the administrative workload for our organizing team."
 
 <div id="quote_ssla" style="margin:0px auto; width:100%; display:flex; align-items:center;">
     <div id="credits_ssla" style="float:left; margin:0px; width:70%,">
