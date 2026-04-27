@@ -1,4 +1,5 @@
 # FleetPairer
+
 FleetPairer is an optimization software, allowing to generate pairing-lists for
 sailboat racing in a league format.
 
@@ -11,6 +12,7 @@ optimize pairing-lists for efficiency.
 <br>
 
 ## Contact
+
 FleetPairer is currently in a testing phase. Together with some of our early adopters, we are testing FleetPairer in practice, and will strengthen our notion of *fairness* or improve *efficiency* of the generated pairing-lists if necessary. 
 
 If you would like to use FleerPairer for your sailing-league, please contact us via E-Mail.
@@ -20,7 +22,9 @@ If you would like to use FleerPairer for your sailing-league, please contact us 
 <br>
 
 ## FleetPairers's Mission
+
 ### Fairness
+
 FleetPairers's main focus lies on making sailing leagues as *fair* as possible.
 To do so, the usually used rules had to be strengthened significantly.
 However, the new rules still satisfy the usual ones. This allows race-organizers to switch to new pairing-lists without going through the process of adapting their league's rules.
@@ -35,8 +39,8 @@ Usually, pairing-lists are developed manually. This is not only tedious but almo
 > **Note:**
 > Depending on the number of boats, teams and flights in a league, there might not be a perfectly fair pairing-list. In general, FleetPairer finds an optimal solution (i.e. a solution that is as fair as possible).
 
-
 ### Efficiency
+
 In league-sailing, there are usually many crew-changes between races. This is clearly necessary, not only if there are more teams competing than boats available, but also to achieve *fairness* as described above. However, those crew-changes can take up a large portion of race days, especially if the individual races are short.
 
 Thus, FleetPairer uses advanced optimization strategies to keep the total time used for crew-changes down to a minimum.  
@@ -47,6 +51,7 @@ Furthermore, FleetPairer prohibits pairing-lists in which a team sails on two di
 <br>
 
 ## Frequent Users
+
 The *Swiss Sailing League Association (SSLA)* uses FleetPairer for their events since the season 2025. They are in close contact with FleetPairer and provide valuable feedback to improve our software.
 
 >The Swiss Sailing League organizes numerous regattas every year involving many teams, tight schedules, and complex logistics. Precise and efficient flight scheduling is crucial to ensuring that everything runs smoothly on the water.
@@ -68,6 +73,7 @@ The *Swiss Sailing League Association (SSLA)* uses FleetPairer for their events 
 <br>
 
 ## The League-Sailing Format
+
 In a sailing-league, a predetermined number of teams compete against each other in a (sometimes fixed) number of so-called flights. The teams race on a fleet of identical boats, provided by the league-organizers.  
 In each flight, every team sails *exactly* once. If there are more teams than available boats, a flight may consist of multiple races.  
 Each team recieves points corresponding to their ranking in the respective race. In the end, the team with the lowest sum of points wins the sailing-league.
@@ -78,6 +84,7 @@ Each team recieves points corresponding to their ranking in the respective race.
 <br>
 
 ## License
+
 Copyright © 2026 L. Dalbosco
 
 Pairing-lists generated with this software may be used free of
