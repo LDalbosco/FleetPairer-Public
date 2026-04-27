@@ -51,13 +51,11 @@ The *Swiss Sailing League Association (SSLA)* uses FleetPairer for their events 
 >With FleetPairer, we have found a solution that meets all of our expectations. The platform enables the rapid, transparent, and fair creation of flight schedules, even when adjustments are needed at the last minute. We particularly appreciate the intuitive user interface and the flexibility to adapt to different event formats and participant numbers.
 >
 >Thanks to FleetPairer, we have significantly simplified our operational processes while improving the quality of our regatta organization. Planning is transparent and efficient, and it considerably reduces the administrative workload for our organizing team.
->
->>— Fabian Meier, President of the Swiss Sailing League Association
 
 <div id="quote_ssla" style="margin:0px auto; width:100%">
-    <div id="credits_ssla" style="float:left; margin:0; width:70%">
+    <div id="credits_ssla" style="float:left; margin:0; width:70%; display:flex; justify-content:center; align-items: center;">
         <p>
-            - Fabian Meier,<br>President of the Swisss Sailing League Association
+            &mdash; Fabian Meier,<br>President of the Swisss Sailing League Association
         </p>
     </div>
     <div id="logo_ssla" style="float:left; margin:0; width:30%">
