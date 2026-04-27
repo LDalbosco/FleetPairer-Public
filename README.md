@@ -5,7 +5,7 @@ sailboat racing in a league format.
 While enabling *fairness* in sailing leagues, FleetPairer also allows to
 optimize pairing-lists for efficiency.
 
-
+<br>
 
 ## Contact
 FleetPairer is currently in a testing phase. Together with some of our early adopters, we are testing FleetPairer in practice, and will strengthen our notion of *fairness* or improve *efficiency* of the generated pairing-lists if necessary. 
@@ -14,7 +14,7 @@ If you would like to use FleerPairer for your sailing-league, please contact us 
 
 **E-Mail:** [fleetpairer@gmail.com](mailto:fleetpairer@gmail.com)
 
-
+<br>
 
 ## FleetPairers's Mission
 ### Fairness
@@ -40,7 +40,7 @@ To do so, FleetPairer may also take the local conditions into account. This is e
 
 Furthermore, FleetPairer prohibits pairing-lists in which a team sails on two different boats in consecutive races. This was observed to lead to major congestions (e.g. if the team finishing last has to change to the boat of the team finishing first).
 
-
+<br>
 
 ## The League-Sailing Format
 In a sailing-league, a predetermined number of teams compete against each other in a (sometimes fixed) number of so-called flights. The teams race on a fleet of identical boats, provided by the league-organizers.  
@@ -50,7 +50,7 @@ Each team recieves points corresponding to their ranking in the respective race.
 > **Note:**
 > It is crucial that only *completed flights* are counted for the final ranking, s.t. each team competed in the same number of races.
 
-
+<br>
 
 ## License
 Copyright © 2026 L. Dalbosco
