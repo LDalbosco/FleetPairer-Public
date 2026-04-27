@@ -22,7 +22,8 @@ FleetPairers's main focus lies on making sailing leagues as *fair* as possible.
 To do so, the usually used rules had to be strengthened significantly.
 However, the new rules still satisfy the usual ones. This allows race-organizers to switch to new pairing-lists without going through the process of adapting their league's rules.
 
-When speaking of ***fairness***, we usually think of two things (in order of priority):  
+When speaking of ***fairness***, we usually think of two things (in order of priority):
+
 1. Each team should directly compete against all other teams equally often
 2. Each team should sail equally often on all boats
 
