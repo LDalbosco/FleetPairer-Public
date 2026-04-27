@@ -55,13 +55,13 @@ The *Swiss Sailing League Association (SSLA)* uses FleetPairer for their events 
 >>— Fabian Meier, President of the Swiss Sailing League Association
 
 <div id="quote_ssla" style="margin:0px auto; width:100%">
-    <div id="logo_ssla" style="float:left; margin:0; width:33%">
-        <img src="/img/ssla_logo.png" alt="SSLA Logo" height="50%">
-    </div>
-    <div id="credits_ssla" style="float:left; margin:0; width:67%">
+    <div id="credits_ssla" style="float:left; margin:0; width:70%">
         <p>
             - Fabian Meier,<br>President of the Swisss Sailing League Association
         </p>
+    </div>
+    <div id="logo_ssla" style="float:left; margin:0; width:30%">
+        <img src="/img/ssla_logo.png" alt="SSLA Logo">
     </div>
 </div>
 
