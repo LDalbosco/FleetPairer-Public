@@ -5,6 +5,9 @@ sailboat racing in a league format.
 While enabling *fairness* in sailing leagues, FleetPairer also allows to
 optimize pairing-lists for efficiency.
 
+> **Note:**
+> The information on this website is tailored to the needs of sailing-league organizers. If you are interested in the theoretical foundations on which FleetPairer builds, or have any other technical questions, please [contact](#contact) us via E-Mail.
+
 <br>
 
 ## Contact
